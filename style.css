@@ -1,0 +1,123 @@
+.menu{
+	background-color: #45015d;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 150px;
+	color:white;
+	border-radius: 15px;
+	padding-left:20px;
+	font-weight: bold;
+}
+a{
+	color:inherit;
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	width: 100%; 
+	box-sizing: border-box;
+	cursor:progress;
+}
+.main{
+	margin-left: 360px;
+	margin-right: 10px;
+}
+.menu h3{
+	
+}
+h1{
+	font-weight: 500;
+	font-size: 64px;
+}
+body{
+	font-family: "Poppins",sans-serif;
+	font-size: 16px;
+	margin: 0;
+	line-height: 1.5;
+}
+hr{
+	border: 5px solid #45015d;
+	border-radius: 10px;
+	
+}
+h2{
+	font-weight: 400;
+	color: #45015d;
+	font-size: 46px;
+}
+.images img{
+	width: 45%;
+	border-radius: 10px;
+	opacity: 0.7;
+	margin: 5px;
+}
+.images img:hover{
+	opacity: 1;
+}
+.choose{
+	font-weight: bold;
+}
+.member{
+	width: 200px;
+	display: inline-block;
+	margin: 10px;
+}
+.member_info{
+	background-color: #f1f1f1;
+	border-radius: 7px;
+	padding: 10px;
+}
+.member img{
+	width: 100%;
+ 	border-radius: 7px;
+ 	filter: grayscale(30%);
+}
+.work{
+	opacity: 0.5;
+}
+.nameB{
+	background-color:#45015d;
+	color:white;
+	padding: 20px;
+	border-radius: 5px;
+}
+#packages li{
+	border: grey 1px solid;
+	list-style-type: none;
+}
+#packages ul{
+	padding: 0;
+	width: 220px;
+	background-color: #f1f1f1;
+	text-align: center;
+	display: inline-block;
+	margin: 10px;
+}
+.period{
+	opacity: 0.5;
+}
+.nameP{
+	background-color: orange;
+	color:white;
+	padding: 20px;
+	border-radius: 5px;
+}
+li a{
+	border-radius: 20px;
+	background-color: white;
+	color:purple;
+	width: 90px;
+	margin: auto;
+}
+input,label{
+	display: block;
+}
+input{
+	width: 100%;
+}
+.send{
+	background-color:#45015d;
+	color: white; 
+}
+
